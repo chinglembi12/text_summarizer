@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+
+# Python chache files
+__pycache__/
+
+# Streamlit chache
+.streamlit/
