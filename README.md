@@ -33,4 +33,4 @@ cd text-summarization
 pip install -r requirements.txt
 
 # 3. Run the summarizer
-python src/text_summarizer.py
+python src/model_loader.py

@@ -1,7 +1,7 @@
 
 import streamlit as st
 #importing the function from the source folder
-from src.model_loder import generate_summary
+from src.model_loader import generate_summary
 
 st.title("📄 AI Text Summarizer")
 #

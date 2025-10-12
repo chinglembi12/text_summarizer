@@ -17,5 +17,5 @@ def generate_summary(text):
         max_length=150,
         min_length=30, 
         do_sample=False
-        )
-        return summary[0]['summary_text'])
+    )
+    return summary[0]['summary_text']
